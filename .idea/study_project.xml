@@ -1017,8 +1017,8 @@
                       <option name="index" value="4" />
                       <option name="name" value="Rename on import" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1038,13 +1038,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="57" />
+                                      <option name="length" value="73" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="// import kotlin.random.Random&#10;// import java.util.Random" />
                                       <option name="possibleAnswer" value="import kotlin.random.Random as KRandom&#10;import java.util.Random as JRandom" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1060,13 +1060,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="23" />
-                                      <option name="offset" value="144" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="160" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="// KRandom.nextInt(2) +" />
                                       <option name="possibleAnswer" value="KRandom.nextInt(2) +" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1082,19 +1082,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="25" />
-                                      <option name="offset" value="210" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="223" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="// JRandom().nextInt(2) +" />
                                       <option name="possibleAnswer" value="JRandom().nextInt(2) +" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// import kotlin.random.Random&#10;// import java.util.Random&#10;&#10;fun useDifferentRandomClasses(): String {&#10;    return &quot;Kotlin random: &quot; +&#10;            // KRandom.nextInt(2) +&#10;            &quot; Java random:&quot; +&#10;            // JRandom().nextInt(2) +&#10;            &quot;.&quot;&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1137,7 +1137,7 @@
                       <option name="name" value="Extension functions" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1157,8 +1157,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="30" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="14" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="RationalNumber(this, 1)" />
@@ -1179,8 +1179,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="79" />
+                                      <option name="length" value="0" />
+                                      <option name="offset" value="103" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="RationalNumber(first, second)" />
@@ -1191,7 +1191,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Int.r(): RationalNumber = TODO()&#10;&#10;fun Pair&lt;Int, Int&gt;.r(): RationalNumber = TODO()&#10;&#10;data class RationalNumber(val numerator: Int, val denominator: Int)&#10;" />
                                 <option name="trackChanges" value="true" />

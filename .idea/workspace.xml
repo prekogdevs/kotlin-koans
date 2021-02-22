@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="" />
+    <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Builders/Builders how it works/.gradle/" />
@@ -153,12 +155,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classes/Rename on import/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Classes/Extension functions/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="189">
-                  <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+                <MainEditorState relative-caret-position="42">
+                  <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -188,6 +190,8 @@
         <option value="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" />
         <option value="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" />
         <option value="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -285,9 +289,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Introduction-String_templates_test' - 2021.02.22 at 13h 26m 28s.xml">
-      <configuration name="Tests in 'Introduction-String_templates_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Introduction-Nullable_types_test' - 2021.02.22 at 15h 25m 59s.xml">
       <configuration name="Tests in 'Introduction-Nullable_types_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -314,6 +315,9 @@
     </history-entry>
     <history-entry file="Tests_in_'Classes-Sealed_classes_test' - 2021.02.22 at 16h 00m 32s.xml">
       <configuration name="Tests in 'Classes-Sealed_classes_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Classes-Rename_on_import_test' - 2021.02.22 at 16h 18m 06s.xml">
+      <configuration name="Tests in 'Classes-Rename_on_import_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -554,8 +558,22 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="189">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <MainEditorState relative-caret-position="105">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Extension functions/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
             </MainEditorState>
           </EduEditorState>
         </state>
