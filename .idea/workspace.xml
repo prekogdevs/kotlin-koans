@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -155,12 +163,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classes/Extension functions/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="42">
-                  <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+                <MainEditorState relative-caret-position="231">
+                  <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conventions/Comparison/test/tests.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="126">
+                  <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#0#76#0" expanded="true" />
+                  </folding>
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -192,6 +216,7 @@
         <option value="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" />
         <option value="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" />
         <option value="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -208,7 +233,35 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Conventions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Conventions" type="462c0819:PsiDirectoryNode" />
+              <item name="Comparison" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin Koans" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Conventions" type="462c0819:PsiDirectoryNode" />
+              <item name="Comparison" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Course">
         <subPane>
           <expand>
@@ -219,12 +272,12 @@
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Classes" type="d53b8fed:LessonNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Classes" type="d53b8fed:LessonNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
@@ -289,15 +342,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Introduction-Nullable_types_test' - 2021.02.22 at 15h 25m 59s.xml">
-      <configuration name="Tests in 'Introduction-Nullable_types_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Introduction-Nothing_type_test' - 2021.02.22 at 15h 27m 45s.xml">
-      <configuration name="Tests in 'Introduction-Nothing_type_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Introduction-Nothing_type_test' - 2021.02.22 at 15h 29m 48s.xml">
-      <configuration name="Tests in 'Introduction-Nothing_type_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Introduction-Lambdas_test' - 2021.02.22 at 15h 30m 26s.xml">
       <configuration name="Tests in 'Introduction-Lambdas_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -318,6 +362,15 @@
     </history-entry>
     <history-entry file="Tests_in_'Classes-Rename_on_import_test' - 2021.02.22 at 16h 18m 06s.xml">
       <configuration name="Tests in 'Classes-Rename_on_import_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Classes-Extension_functions_test' - 2021.02.22 at 16h 22m 06s.xml">
+      <configuration name="Tests in 'Classes-Extension_functions_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 30m 25s.xml">
+      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 31m 59s.xml">
+      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -341,7 +394,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2112676" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
@@ -349,7 +402,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.18070363" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Gradle" order="7" />
@@ -572,8 +625,33 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="42">
-              <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+            <MainEditorState relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/Comparison/test/tests.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#76#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="231">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </MainEditorState>
           </EduEditorState>
         </state>
