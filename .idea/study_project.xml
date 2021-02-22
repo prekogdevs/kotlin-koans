@@ -444,7 +444,7 @@
                       <option name="index" value="6" />
                       <option name="name" value="Nullable types" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -465,13 +465,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="1" />
-                                      <option name="offset" value="86" />
+                                      <option name="length" value="139" />
+                                      <option name="offset" value="87" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="val email = client?.personalInfo?.email&#10;    if (email != null &amp;&amp; message != null) {&#10;        mailer.sendMessage(email, message)&#10;    }" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -520,7 +520,7 @@
                       <option name="name" value="Nothing type" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -540,19 +540,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="3" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="74" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="   " />
                                       <option name="possibleAnswer" value=": Nothing" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.lang.IllegalArgumentException&#10;&#10;fun failWithWrongAge(age: Int?)    {&#10;    throw IllegalArgumentException(&quot;Wrong age: $age&quot;)&#10;}&#10;&#10;fun checkAge(age: Int?) {&#10;    if (age == null || age !in 0..150) failWithWrongAge(age)&#10;    println(&quot;Congrats! Next year you'll be ${age + 1}.&quot;)&#10;}&#10;&#10;fun main() {&#10;    checkAge(10)&#10;}" />
                                 <option name="trackChanges" value="true" />
