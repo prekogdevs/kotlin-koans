@@ -519,7 +519,7 @@
                       <option name="index" value="7" />
                       <option name="name" value="Nothing type" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -540,13 +540,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="12" />
                                       <option name="offset" value="74" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="   " />
                                       <option name="possibleAnswer" value=": Nothing" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -594,8 +594,8 @@
                       <option name="index" value="8" />
                       <option name="name" value="Lambdas" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -615,19 +615,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="82" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="it % 2 == 0" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun containsEven(collection: Collection&lt;Int&gt;): Boolean =&#10;        collection.any { TODO() }&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -683,7 +683,7 @@
                       <option name="name" value="Data classes" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -703,19 +703,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="12" />
+                                      <option name="length" value="51" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="class Person" />
                                       <option name="possibleAnswer" value="data class Person(val name: String, val age: Int)" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class Person&#10;&#10;fun getPeople(): List&lt;Person&gt; {&#10;    return listOf(Person(&quot;Alice&quot;, 29), Person(&quot;Bob&quot;, 31))&#10;}&#10;&#10;fun comparePeople(): Boolean {&#10;    val p1 = Person(&quot;Alice&quot;, 29)&#10;    val p2 = Person(&quot;Alice&quot;, 29)&#10;    return p1 == p2  // should be true&#10;}" />
                                 <option name="trackChanges" value="true" />
