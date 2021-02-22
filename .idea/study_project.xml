@@ -369,7 +369,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="String templates" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -390,13 +390,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="25" />
+                                      <option name="length" value="24" />
                                       <option name="offset" value="92" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="&quot;&quot;&quot;\d{2} $month \d{4}&quot;&quot;&quot;" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -445,7 +445,7 @@
                       <option name="name" value="Nullable types" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -465,19 +465,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="91" />
+                                      <option name="length" value="1" />
+                                      <option name="offset" value="86" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="val email = client?.personalInfo?.email&#10;    if (email != null &amp;&amp; message != null) {&#10;        mailer.sendMessage(email, message)&#10;    }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun sendMessageToClient(&#10;        client: Client?, message: String?, mailer: Mailer&#10;) {&#10;    TODO()&#10;}&#10;&#10;class Client(val personalInfo: PersonalInfo?)&#10;class PersonalInfo(val email: String?)&#10;interface Mailer {&#10;    fun sendMessage(email: String, message: String)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
