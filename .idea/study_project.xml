@@ -219,8 +219,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="Default arguments" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -240,19 +240,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="56" />
+                                      <option name="length" value="70" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="fun foo(name: String, number: Int, toUpperCase: Boolean)" />
                                       <option name="possibleAnswer" value="fun foo(name: String, number: Int = 42, toUpperCase: Boolean = false)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun foo(name: String, number: Int, toUpperCase: Boolean) =&#10;        (if (toUpperCase) name.toUpperCase() else name) + number&#10;&#10;fun useFoo() = listOf(&#10;        foo(&quot;a&quot;),&#10;        foo(&quot;b&quot;, number = 1),&#10;        foo(&quot;c&quot;, toUpperCase = true),&#10;        foo(name = &quot;d&quot;, number = 2, toUpperCase = true)&#10;)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -294,8 +294,8 @@
                       <option name="index" value="4" />
                       <option name="name" value="Triple-quoted strings" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -315,19 +315,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="13" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="162" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value=".trimIndent()" />
                                       <option name="possibleAnswer" value=".trimMargin(&quot;#&quot;)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="const val question = &quot;life, the universe, and everything&quot;&#10;const val answer = 42&#10;&#10;val tripleQuotedString = &quot;&quot;&quot;&#10;    #question = &quot;$question&quot;&#10;    #answer = $answer&quot;&quot;&quot;.trimIndent()&#10;&#10;fun main() {&#10;    println(tripleQuotedString)&#10;}" />
                                 <option name="trackChanges" value="true" />
