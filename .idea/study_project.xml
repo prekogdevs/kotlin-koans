@@ -682,7 +682,7 @@
                       <option name="index" value="1" />
                       <option name="name" value="Data classes" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -709,7 +709,7 @@
                                       <option name="placeholderText" value="class Person" />
                                       <option name="possibleAnswer" value="data class Person(val name: String, val age: Int)" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -757,8 +757,8 @@
                       <option name="index" value="2" />
                       <option name="name" value="Smart casts" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -778,13 +778,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="72" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="expr.value" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -800,19 +800,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="101" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="105" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="eval(expr.left) + eval(expr.right)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun eval(expr: Expr): Int =&#10;        when (expr) {&#10;            is Num -&gt; TODO()&#10;            is Sum -&gt; TODO()&#10;            else -&gt; throw IllegalArgumentException(&quot;Unknown expression&quot;)&#10;        }&#10;&#10;interface Expr&#10;class Num(val value: Int) : Expr&#10;class Sum(val left: Expr, val right: Expr) : Expr&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -854,8 +854,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="Sealed classes" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -875,13 +875,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="72" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="expr.value" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -897,13 +897,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="101" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="105" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="eval(expr.left) + eval(expr.right)" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -919,13 +919,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="119" />
+                                      <option name="length" value="17" />
+                                      <option name="offset" value="151" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="interface Expr" />
                                       <option name="possibleAnswer" value="sealed class Expr" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -941,13 +941,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="4" />
-                                      <option name="offset" value="162" />
+                                      <option name="length" value="6" />
+                                      <option name="offset" value="197" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="Expr" />
                                       <option name="possibleAnswer" value="Expr()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -963,19 +963,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="4" />
-                                      <option name="offset" value="212" />
+                                      <option name="length" value="7" />
+                                      <option name="offset" value="249" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="Expr" />
                                       <option name="possibleAnswer" value="Expr()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun eval(expr: Expr): Int =&#10;        when (expr) {&#10;            is Num -&gt; TODO()&#10;            is Sum -&gt; TODO()&#10;        }&#10;&#10;interface Expr&#10;class Num(val value: Int) : Expr&#10;class Sum(val left: Expr, val right: Expr) : Expr" />
                                 <option name="trackChanges" value="true" />
