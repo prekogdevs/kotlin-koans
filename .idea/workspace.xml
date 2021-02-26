@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -161,12 +155,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="126">
-                  <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+                <MainEditorState>
+                  <caret column="28" selection-start-column="28" selection-end-column="28" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Shop.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="210">
+                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -203,6 +210,7 @@
         <option value="$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt" />
         <option value="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -228,18 +236,12 @@
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
@@ -344,12 +346,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 44m 15s.xml">
-      <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 45m 13s.xml">
-      <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 45m 25s.xml">
       <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -374,12 +370,18 @@
     <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 12h 47m 16s.xml">
       <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'Conventions-Invoke_test' - 2021.02.26 at 13h 08m 17s.xml">
+      <configuration name="Tests in 'Conventions-Invoke_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 13h 09m 07s.xml">
+      <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-80" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -389,13 +391,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
@@ -404,7 +406,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
-      <window_info active="true" anchor="right" id="Task" order="4" visible="true" weight="0.28997868" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.28997868" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Gradle" order="7" />
@@ -735,23 +737,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="147">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <MainEditorState relative-caret-position="189">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="126">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <MainEditorState relative-caret-position="252">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="210">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </MainEditorState>
           </EduEditorState>
         </state>

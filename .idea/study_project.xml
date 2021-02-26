@@ -1411,7 +1411,7 @@
                       <option name="index" value="3" />
                       <option name="name" value="For loop" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -1438,7 +1438,7 @@
                                       <option name="placeholderText" value="class DateRange(val start: MyDate, val end: MyDate)" />
                                       <option name="possibleAnswer" value="class DateRange(val start: MyDate, val end: MyDate) : Iterable&lt;MyDate&gt; {&#10;    override fun iterator(): Iterator&lt;MyDate&gt; {&#10;        return object : Iterator&lt;MyDate&gt; {&#10;            var current: MyDate = start&#10;&#10;            override fun next(): MyDate {&#10;                if (!hasNext()) throw NoSuchElementException()&#10;                val result = current&#10;                current = current.followingDate()&#10;                return result&#10;            }&#10;&#10;            override fun hasNext(): Boolean = current &lt;= end&#10;        }&#10;    }&#10;}" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Failed" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1628,7 +1628,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="Invoke" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
                         <map>
@@ -1655,7 +1655,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="numberOfInvocations++&#10;        return this" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1717,7 +1717,7 @@
                       <option name="name" value="Introduction" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1737,19 +1737,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="54" />
+                                      <option name="length" value="25" />
+                                      <option name="offset" value="28" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.toSet()" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Shop.getSetOfCustomers(): Set&lt;Customer&gt; =&#10;        TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
