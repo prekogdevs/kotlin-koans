@@ -8,9 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -163,51 +161,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState relative-caret-position="210">
-                  <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-                </MainEditorState>
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conventions/For loop/test/tests.kt">
+        <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
                 <MainEditorState relative-caret-position="126">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
-                </MainEditorState>
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState relative-caret-position="168">
-                  <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-                </MainEditorState>
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/DateUtil.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState relative-caret-position="126">
-                  <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+                  <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -243,6 +202,7 @@
         <option value="$PROJECT_DIR$/Conventions/Ranges/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt" />
         <option value="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -269,6 +229,12 @@
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
               <item name="Conventions" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
@@ -773,8 +739,19 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="210">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <MainEditorState relative-caret-position="147">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </MainEditorState>
           </EduEditorState>
         </state>
