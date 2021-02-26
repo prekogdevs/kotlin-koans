@@ -2267,8 +2267,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="279" />
-                                      <option name="offset" value="304" />
+                                      <option name="length" value="122" />
+                                      <option name="offset" value="251" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customer.orders&#10;                .flatMap(Order::products)&#10;                .maxBy(Product::price)" />
@@ -2352,7 +2352,7 @@
                       <option name="name" value="Sum" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2372,19 +2372,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="64" />
                                       <option name="offset" value="132" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customer.orders.flatMap { it.products }.sumByDouble { it.price }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the sum of prices for all the products ordered by a given customer&#10;fun moneySpentBy(customer: Customer): Double =&#10;        TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
