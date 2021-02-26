@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Associate/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Associate/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -154,16 +161,16 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4011229">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Shop.kt">
+            <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Shop.kt">
               <provider selected="true" editor-type-id="StudyEditor">
                 <state>
                   <EduEditorState>
-                    <MainEditorState relative-caret-position="231">
-                      <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                    <MainEditorState relative-caret-position="42">
+                      <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
                     </MainEditorState>
                   </EduEditorState>
                 </state>
@@ -175,12 +182,51 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
+              <provider selected="true" editor-type-id="StudyEditor">
+                <state>
+                  <EduEditorState>
+                    <MainEditorState relative-caret-position="105">
+                      <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+                    </MainEditorState>
+                  </EduEditorState>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
+              <provider selected="true" editor-type-id="StudyEditor">
+                <state>
+                  <EduEditorState>
+                    <MainEditorState relative-caret-position="42">
+                      <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="42" />
+                    </MainEditorState>
+                  </EduEditorState>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Task.kt">
               <provider selected="true" editor-type-id="StudyEditor">
                 <state>
                   <EduEditorState>
-                    <MainEditorState relative-caret-position="210">
-                      <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+                    <MainEditorState relative-caret-position="42">
+                      <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+                    </MainEditorState>
+                  </EduEditorState>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Collections/Partition/test/tests.kt">
+              <provider selected="true" editor-type-id="StudyEditor">
+                <state>
+                  <EduEditorState>
+                    <MainEditorState relative-caret-position="126">
+                      <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
                     </MainEditorState>
                   </EduEditorState>
                 </state>
@@ -227,6 +273,7 @@
         <option value="$PROJECT_DIR$/Collections/Sum/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Associate/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -318,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMaxMin.testCustomerWithMaximumNumberOfOrders">
+  <component name="RunManager" selected="JUnit.TestPartition">
     <configuration name="TestForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Conventions-For_loop_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -338,6 +385,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPartition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections-Partition_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPartition" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Introduction-Triple-quoted_strings_main" />
       <option name="VM_PARAMETERS" />
@@ -353,6 +409,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPartition" />
         <item itemvalue="JUnit.TestMaxMin.testCustomerWithMaximumNumberOfOrders" />
         <item itemvalue="JUnit.TestForLoop" />
         <item itemvalue="Kotlin.TaskKt" />
@@ -373,24 +430,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Collections-Sort_test' - 2021.02.26 at 13h 54m 40s.xml">
-      <configuration name="Tests in 'Collections-Sort_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Filter_map_test' - 2021.02.26 at 13h 59m 25s.xml">
-      <configuration name="Tests in 'Collections-Filter_map_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-All_Any_and_other_predicates_test' - 2021.02.26 at 14h 09m 15s.xml">
-      <configuration name="Tests in 'Collections-All_Any_and_other_predicates_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-All_Any_and_other_predicates_test' - 2021.02.26 at 14h 09m 34s.xml">
-      <configuration name="Tests in 'Collections-All_Any_and_other_predicates_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Max_min_test' - 2021.02.26 at 14h 21m 08s.xml">
-      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestMaxMin_testCustomerWithMaximumNumberOfOrders - 2021.02.26 at 14h 22m 29s.xml">
-      <configuration name="TestMaxMin.testCustomerWithMaximumNumberOfOrders" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Max_min_test' - 2021.02.26 at 14h 34m 04s.xml">
       <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -403,12 +442,30 @@
     <history-entry file="Tests_in_'Collections-GroupBy_test' - 2021.02.26 at 14h 38m 24s.xml">
       <configuration name="Tests in 'Collections-GroupBy_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'Collections-Associate_test' - 2021.02.26 at 14h 47m 24s.xml">
+      <configuration name="Tests in 'Collections-Associate_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPartition - 2021.02.26 at 14h 58m 39s.xml">
+      <configuration name="TestPartition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPartition - 2021.02.26 at 15h 00m 25s.xml">
+      <configuration name="TestPartition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPartition - 2021.02.26 at 15h 07m 59s.xml">
+      <configuration name="TestPartition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Partition_test' - 2021.02.26 at 15h 18m 18s.xml">
+      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Partition_test' - 2021.02.26 at 15h 21m 59s.xml">
+      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-80" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -428,7 +485,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Task" order="14" visible="true" weight="0.38136512" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,6 +535,12 @@
           <line>7</line>
           <properties />
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Collections/Partition/src/Task.kt</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -882,13 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/224a3bcfa1c088dd5d7c4a3958a68427b44c65dc/kotlin-stdlib-common-1.3.21-sources.jar!/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="1206" column="37" selection-start-line="1206" selection-start-column="37" selection-end-line="1206" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Shop.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -966,23 +1022,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="42">
-              <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Shop.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/224a3bcfa1c088dd5d7c4a3958a68427b44c65dc/kotlin-stdlib-common-1.3.21-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1121" column="22" selection-start-line="1121" selection-start-column="22" selection-end-line="1121" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/test/tests.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
             </MainEditorState>
           </EduEditorState>
         </state>
@@ -992,8 +1055,41 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="210">
-              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="42" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="105">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </MainEditorState>
           </EduEditorState>
         </state>
