@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6fc87a-1667-4c86-a473-3a6d76f525ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Ranges/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Ranges/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -156,12 +163,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conventions/Ranges/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="21">
-                  <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+                <MainEditorState relative-caret-position="210">
+                  <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -169,11 +176,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conventions/Ranges/src/MyDate.kt">
+        <entry file="file://$PROJECT_DIR$/Conventions/For loop/test/tests.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState />
+                <MainEditorState relative-caret-position="126">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="168">
+                  <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/DateUtil.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="126">
+                  <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+                </MainEditorState>
               </EduEditorState>
             </state>
           </provider>
@@ -206,6 +241,8 @@
         <option value="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Ranges/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt" />
+        <option value="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -221,7 +258,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,23 +311,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,7 +334,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestForLoop">
+    <configuration name="TestForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Conventions-For_loop_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForLoop" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Introduction-Triple-quoted_strings_main" />
       <option name="VM_PARAMETERS" />
@@ -307,6 +359,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestForLoop" />
         <item itemvalue="Kotlin.TaskKt" />
       </list>
     </recent_temporary>
@@ -325,67 +378,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Classes-Smart_casts_test' - 2021.02.22 at 15h 53m 44s.xml">
-      <configuration name="Tests in 'Classes-Smart_casts_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 44m 15s.xml">
+      <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Classes-Smart_casts_test' - 2021.02.22 at 15h 54m 16s.xml">
-      <configuration name="Tests in 'Classes-Smart_casts_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 45m 13s.xml">
+      <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Classes-Sealed_classes_test' - 2021.02.22 at 15h 56m 27s.xml">
-      <configuration name="Tests in 'Classes-Sealed_classes_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-Ranges_test' - 2021.02.22 at 16h 45m 25s.xml">
+      <configuration name="Tests in 'Conventions-Ranges_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Classes-Sealed_classes_test' - 2021.02.22 at 16h 00m 32s.xml">
-      <configuration name="Tests in 'Classes-Sealed_classes_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 12h 31m 01s.xml">
+      <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Classes-Rename_on_import_test' - 2021.02.22 at 16h 18m 06s.xml">
-      <configuration name="Tests in 'Classes-Rename_on_import_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TestForLoop - 2021.02.26 at 12h 33m 07s.xml">
+      <configuration name="TestForLoop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_in_'Classes-Extension_functions_test' - 2021.02.22 at 16h 22m 06s.xml">
-      <configuration name="Tests in 'Classes-Extension_functions_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TestForLoop - 2021.02.26 at 12h 34m 00s.xml">
+      <configuration name="TestForLoop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 30m 25s.xml">
-      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TestForLoop - 2021.02.26 at 12h 37m 52s.xml">
+      <configuration name="TestForLoop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 31m 59s.xml">
-      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 12h 43m 13s.xml">
+      <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 35m 36s.xml">
-      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 12h 44m 46s.xml">
+      <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2021.02.22 at 16h 40m 21s.xml">
-      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'Conventions-For_loop_test' - 2021.02.26 at 12h 47m 16s.xml">
+      <configuration name="Tests in 'Conventions-For_loop_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-80" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="6" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.35660982" />
+      <window_info active="true" anchor="right" id="Task" order="4" visible="true" weight="0.28997868" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Gradle" order="7" />
@@ -401,14 +454,30 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-field">
-          <url>file://$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt</url>
-          <line>3</line>
-          <properties myFieldName="tripleQuotedString" myClassName="TaskKt" />
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Conventions/For loop/test/tests.kt</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Conventions/For loop/test/tests.kt</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -499,17 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </MainEditorState>
-          </EduEditorState>
         </state>
       </provider>
     </entry>
@@ -649,12 +707,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/b8815e48fb45e94821287365bd9ce8623f459ac7/kotlin-stdlib-1.3.21-sources.jar!/kotlin/Range.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conventions/Ranges/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="21">
-              <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/DateUtil.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="105">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="168">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/For loop/test/tests.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="210">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </MainEditorState>
           </EduEditorState>
         </state>

@@ -1321,7 +1321,7 @@
                       <option name="index" value="2" />
                       <option name="name" value="Ranges" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -1342,13 +1342,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="27" />
-                                      <option name="offset" value="82" />
+                                      <option name="length" value="22" />
+                                      <option name="offset" value="67" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="date in first..last" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1411,8 +1411,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="For loop" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Failed" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1432,19 +1432,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="51" />
+                                      <option name="length" value="777" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="class DateRange(val start: MyDate, val end: MyDate)" />
                                       <option name="possibleAnswer" value="class DateRange(val start: MyDate, val end: MyDate) : Iterable&lt;MyDate&gt; {&#10;    override fun iterator(): Iterator&lt;MyDate&gt; {&#10;        return object : Iterator&lt;MyDate&gt; {&#10;            var current: MyDate = start&#10;&#10;            override fun next(): MyDate {&#10;                if (!hasNext()) throw NoSuchElementException()&#10;                val result = current&#10;                current = current.followingDate()&#10;                return result&#10;            }&#10;&#10;            override fun hasNext(): Boolean = current &lt;= end&#10;        }&#10;    }&#10;}" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Failed" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val end: MyDate)&#10;&#10;fun iterateOverDateRange(firstDate: MyDate, secondDate: MyDate, handler: (MyDate) -&gt; Unit) {&#10;    for (date in firstDate..secondDate) {&#10;        handler(date)&#10;    }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -1474,7 +1474,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/MyDate.kt" />
                                 <option name="text" value="data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable&lt;MyDate&gt; {&#10;    override fun compareTo(other: MyDate): Int {&#10;        if (year != other.year) return year - other.year&#10;        if (month != other.month) return month - other.month&#10;        return dayOfMonth - other.dayOfMonth&#10;    }&#10;}&#10;&#10;operator fun MyDate.rangeTo(other: MyDate) = DateRange(this, other)&#10;" />
                                 <option name="trackChanges" value="true" />
