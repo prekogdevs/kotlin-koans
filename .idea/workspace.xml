@@ -10,7 +10,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -161,16 +162,16 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4011229">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Shop.kt">
+            <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Shop.kt">
               <provider selected="true" editor-type-id="StudyEditor">
                 <state>
                   <EduEditorState>
-                    <MainEditorState relative-caret-position="42">
-                      <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+                    <MainEditorState relative-caret-position="273">
+                      <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
                     </MainEditorState>
                   </EduEditorState>
                 </state>
@@ -182,25 +183,12 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
-              <provider selected="true" editor-type-id="StudyEditor">
-                <state>
-                  <EduEditorState>
-                    <MainEditorState relative-caret-position="105">
-                      <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-                    </MainEditorState>
-                  </EduEditorState>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
+            <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
               <provider selected="true" editor-type-id="StudyEditor">
                 <state>
                   <EduEditorState>
                     <MainEditorState relative-caret-position="42">
-                      <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="42" />
+                      <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
                     </MainEditorState>
                   </EduEditorState>
                 </state>
@@ -208,25 +196,12 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Task.kt">
+            <entry file="file://$PROJECT_DIR$/Collections/FlatMap/test/tests.kt">
               <provider selected="true" editor-type-id="StudyEditor">
                 <state>
                   <EduEditorState>
-                    <MainEditorState relative-caret-position="42">
-                      <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-                    </MainEditorState>
-                  </EduEditorState>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Collections/Partition/test/tests.kt">
-              <provider selected="true" editor-type-id="StudyEditor">
-                <state>
-                  <EduEditorState>
-                    <MainEditorState relative-caret-position="126">
-                      <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+                    <MainEditorState relative-caret-position="63">
+                      <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
                     </MainEditorState>
                   </EduEditorState>
                 </state>
@@ -274,6 +249,7 @@
         <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Associate/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -289,6 +265,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Course">
         <subPane>
           <expand>
@@ -311,8 +288,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -342,6 +317,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,7 +341,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPartition">
+  <component name="RunManager" selected="JUnit.TestFlatMap">
+    <configuration name="TestFlatMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections-FlatMap_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFlatMap" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Conventions-For_loop_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -409,6 +394,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFlatMap" />
         <item itemvalue="JUnit.TestPartition" />
         <item itemvalue="JUnit.TestMaxMin.testCustomerWithMaximumNumberOfOrders" />
         <item itemvalue="JUnit.TestForLoop" />
@@ -430,42 +416,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Collections-Max_min_test' - 2021.02.26 at 14h 34m 04s.xml">
-      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Max_min_test' - 2021.02.26 at 14h 34m 49s.xml">
-      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Sum_test' - 2021.02.26 at 14h 36m 34s.xml">
-      <configuration name="Tests in 'Collections-Sum_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-GroupBy_test' - 2021.02.26 at 14h 38m 24s.xml">
-      <configuration name="Tests in 'Collections-GroupBy_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Associate_test' - 2021.02.26 at 14h 47m 24s.xml">
-      <configuration name="Tests in 'Collections-Associate_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPartition - 2021.02.26 at 14h 58m 39s.xml">
-      <configuration name="TestPartition" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPartition - 2021.02.26 at 15h 00m 25s.xml">
-      <configuration name="TestPartition" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPartition - 2021.02.26 at 15h 07m 59s.xml">
-      <configuration name="TestPartition" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Partition_test' - 2021.02.26 at 15h 18m 18s.xml">
-      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Partition_test' - 2021.02.26 at 15h 21m 59s.xml">
       <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Partition_test' - 2021.02.26 at 15h 22m 10s.xml">
+      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFlatMap - 2021.03.03 at 15h 51m 11s.xml">
+      <configuration name="TestFlatMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFlatMap - 2021.03.03 at 15h 53m 43s.xml">
+      <configuration name="TestFlatMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFlatMap - 2021.03.03 at 16h 05m 29s.xml">
+      <configuration name="TestFlatMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFlatMap - 2021.03.03 at 16h 05m 43s.xml">
+      <configuration name="TestFlatMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2021.03.03 at 16h 06m 28s.xml">
+      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2021.03.03 at 16h 06m 46s.xml">
+      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2021.03.03 at 16h 07m 17s.xml">
+      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2021.03.03 at 16h 07m 28s.xml">
+      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-80" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14552239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -536,12 +522,6 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/Collections/Partition/src/Task.kt</url>
-          <line>2</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -551,6 +531,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.orders.flatMap { it.products.flatMap { it. } }</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>&quot;&quot;&quot;
     #question = &quot;$question&quot;
@@ -1040,23 +1025,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/Partition/test/tests.kt">
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="126">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="42">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <MainEditorState relative-caret-position="84">
+              <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
             </MainEditorState>
           </EduEditorState>
         </state>
@@ -1073,6 +1047,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Associate/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/test/tests.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Shop.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -1084,12 +1080,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/test/tests.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="105">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <MainEditorState relative-caret-position="63">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="273">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="42">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </MainEditorState>
           </EduEditorState>
         </state>

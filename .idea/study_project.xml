@@ -1516,7 +1516,7 @@
                       <option name="index" value="4" />
                       <option name="name" value="Operators overloading" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Failed" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
                         <map>
@@ -1537,7 +1537,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="69" />
+                                      <option name="length" value="100" />
                                       <option name="offset" value="192" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="operator fun MyDate.plus(timeInterval: TimeInterval): MyDate = TODO()" />
@@ -1560,7 +1560,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="64" />
-                                      <option name="offset" value="371" />
+                                      <option name="offset" value="402" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO(&quot;Uncomment&quot;) //return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
                                       <option name="possibleAnswer" value="return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
@@ -2815,8 +2815,8 @@
                       <option name="index" value="10" />
                       <option name="name" value="FlatMap" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2836,13 +2836,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="113" />
+                                      <option name="length" value="1" />
+                                      <option name="offset" value="148" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="orders.flatMap(Order::products)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2858,19 +2858,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="241" />
+                                      <option name="length" value="32" />
+                                      <option name="offset" value="301" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.flatMap(Customer::getOrderedProducts).toSet()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return all products the given customer has ordered&#10;fun Customer.getOrderedProducts(): List&lt;Product&gt; =&#10;        TODO()&#10;&#10;// Return all products that were ordered by at least one customer&#10;fun Shop.getOrderedProducts(): Set&lt;Product&gt; =&#10;        TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
