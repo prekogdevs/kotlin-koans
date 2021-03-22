@@ -3112,7 +3112,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="109" />
+                                      <option name="length" value="112" />
                                       <option name="offset" value="510" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
@@ -3135,7 +3135,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="52" />
-                                      <option name="offset" value="673" />
+                                      <option name="offset" value="676" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value="orders.flatMap(Order::products)" />
@@ -3338,7 +3338,7 @@
                       <option name="name" value="Sequences" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3363,7 +3363,7 @@
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="return customer&#10;            .orders&#10;            .asSequence()&#10;            .filter(Order::isDelivered)&#10;            .flatMap { it.products.asSequence() }&#10;            .maxBy(Product::price)" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
@@ -3414,7 +3414,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Find the most expensive product among all the delivered products&#10;// ordered by the customer. Use `Order.isDelivered` flag.&#10;fun findMostExpensiveProductBy(customer: Customer): Product? {&#10;    TODO()&#10;}&#10;&#10;// Count the amount of times a product was ordered.&#10;// Note that a customer may order the same product several times.&#10;fun Shop.getNumberOfTimesProductWasOrdered(product: Product): Int {&#10;    TODO()&#10;}&#10;&#10;fun Customer.getOrderedProducts(): Sequence&lt;Product&gt; =&#10;        TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3500,7 +3500,7 @@
                       <option name="name" value="Properties" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3520,19 +3520,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="3" />
+                                      <option name="length" value="66" />
                                       <option name="offset" value="95" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="set" />
                                       <option name="possibleAnswer" value="set(v) {&#10;            field = v&#10;            counter++&#10;        }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class PropertyExample() {&#10;    var counter = 0&#10;    var propertyWithCounter: Int? = null&#10;        set&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
